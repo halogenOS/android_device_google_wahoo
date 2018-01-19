@@ -1,0 +1,1 @@
+# halogenOS BoardConfig for wahoo

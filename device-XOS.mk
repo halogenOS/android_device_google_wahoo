@@ -1,0 +1,1 @@
+# halogenOS device makefile for wahoo
